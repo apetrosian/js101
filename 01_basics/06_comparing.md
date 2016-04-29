@@ -26,8 +26,8 @@ var a = "22";
 
 var b = a * 1;
 
-a;  // "42"
-b;  // 42 -- the number!
+a;  // "22"
+b;  // 22 -- the number!
 ```
 
 ## Truthy & Falsy

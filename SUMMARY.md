@@ -10,7 +10,7 @@
    * [Comparing Values](01_basics/06_comparing.md)
 * [Functions](02_functions/_index.md)
   * [Definition](02_functions/01_definition.md)
-  * [Scope](02_functions/01_scope.md)
+  * [Scope](02_functions/02_scope.md)
   * [Hoisting](02_functions/03_hoisting.md)
   * [Closure](02_functions/04_closure.md)
   * [Modules](02_functions/05_modules.md)

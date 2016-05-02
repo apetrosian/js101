@@ -23,6 +23,8 @@ foo();
 Let us then consider code which brings closure into full light:
 
 ```javascript
+var a = 4;
+
 function foo() {
     var a = 2;
 

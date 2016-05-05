@@ -23,4 +23,7 @@
   * [Property Descriptors](04_objects/02_descriptors.md)
   * [Immutability](04_objects/03_immutability.md)
   * [Existence](04_objects/04_existence.md)
-* [Inheritance](05_inheritance/_index.md)
+* [Prototype](05_inheritance/_index.md)
+  * [Object.prototype](05_inheritance/01_prototype.md)
+  * ["Constructors"](05_inheritance/02_constructors.md)
+  * [Object.create](05_inheritance/03_object_create.md)

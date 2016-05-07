@@ -13,7 +13,9 @@ is added directly to the object, resulting in a shadowed property.
 
 // var objectOne = Object.create( anotherObject );
 //
-// objectOne.a = 3;
+// //objectOne.a = 3;
+//
+// console.log(objectOne.a);
 //
 // console.log('objectOne:', objectOne);
 // console.log('anotherObject', anotherObject);
@@ -31,7 +33,9 @@ Otherwise, the setting of the property value will silently be ignored
 
 // Object.defineProperty(anotherObject, "b", {
 //   value: 4,
-//   writable: false
+//   writable: false,
+//   configurable: true,
+//   enumerable: true
 // });
 //
 // var objectTwo = Object.create( anotherObject );

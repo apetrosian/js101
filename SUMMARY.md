@@ -27,3 +27,10 @@
   * [Object.prototype](05_prototype/01_prototype.md)
   * ["Constructors"](05_prototype/02_constructors.md)
   * [Object.create](05_prototype/03_object_create.md)
+* [Asynchrony](06_aync/_index.md)
+  * [Ajax](06_aync/01_ajax.md)
+  * [Event Loop](06_aync/02_event_loop.md)
+  * [Callbacks](06_aync/03_callbacks.md)
+  * [Promises](06_aync/04_promises.md)
+  * [Generators]
+* [Performance]
